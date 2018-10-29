@@ -1,4 +1,4 @@
-# NPM Module Boilerplate
+# DeclareX
 
 [![dependencies Status](https://david-dm.org/jarecsni/declarex/status.svg)](https://david-dm.org/jarecsni/declarex) [![devDependencies Status](https://david-dm.org/jarecsni/declarex/dev-status.svg)](https://david-dm.org/jarecsni/declarex?type=dev) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
